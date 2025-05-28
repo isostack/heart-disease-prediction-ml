@@ -59,7 +59,7 @@ Here are some visuals used in the analysis:
 
 ### 🔍 Web App Demo
 
-- **[Web App Screenshot](./flask/static/demo1.png)**
+![Web App Screenshot](./flask/static/demo1.png)
 
 ---
 

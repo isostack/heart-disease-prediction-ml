@@ -54,7 +54,7 @@ HEART-DISEASE-PREDICTION-ML/
 Here are some visuals used in the analysis:
 
 ![Correlation Matrix](./Exploratory%20Data%20Analysis/Correlation%20Matrix.png)
-![Feature Importance Plot](./Exploratory%20Data%20AnalysisFeature%20Importance%20-%20Random%20Forest.png)
+![Feature Importance Plot](<Exploratory Data Analysis/Feature Importance - Random Forest.png>)
 ![ROC Curve](./Exploratory%20Data%20Analysis/ROC%20Curve.png)
 
 ### 🔍 Web App Demo
